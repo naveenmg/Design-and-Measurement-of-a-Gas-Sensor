@@ -1,4 +1,4 @@
-# Design and Measurement of a Gas Sensor-
+# Design and Measurement of a Gas Sensor
 
 ### Task
 
