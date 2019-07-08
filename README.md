@@ -9,3 +9,6 @@ Two substrates consisting of aluminum oxide (Al2O3) are given for this project. 
 ## Structure of the gas sensor
 
 In order to be able to apply the principle of operation a pattern of conductors has to be created between two contact surfaces. These surfaces as well as the conductors consist of a thin layer of platinum which itself is on top of a non-conductive substrate. Above the platinum pattern there is a layer of tin oxide, but at the contacting surfaces the platinum is still exposed. In order to make the effect (change in resistance) easier to measure, the surface area of the pattern should be as high as possible. This is achieved by having small distances between the conductors in the pattern. Since the effect occurs mainly in the space charge zone, the reaction material should be applied only in a thin layer.
+
+![board1](https://user-images.githubusercontent.com/38221793/60840818-9bc29180-a1d0-11e9-91a6-efcbbbee4227.png)
+![board2](https://user-images.githubusercontent.com/38221793/60840819-9bc29180-a1d0-11e9-8168-428a28e15f93.png)
