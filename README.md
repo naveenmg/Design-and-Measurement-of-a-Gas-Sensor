@@ -20,6 +20,8 @@ Sputtering is one possibility of physical vapor deposition (PVD) to create a thi
 ## Laser Structuring
 The aim of laser structuring is the targeted evaporation of the platinum layer on the ceramic plate at defined geometries.
 
+![boards](https://user-images.githubusercontent.com/38221793/60841323-d678f980-a1d1-11e9-835a-fb2ba1ccaaf0.jpg)
+
 ## Measurement
 First, the sensor was fixed on a rod and the rod was inserted into a glass tube. The glass tube was then put into the oven which was heated to 400°C. During the heating process of the sensor, the PCB was connected to the power supply and multimeters. 
 
@@ -32,6 +34,9 @@ Channel 3: Methane CH4: 0.0 sccm
 
 Note: 1 slm (standard liter per minute) = 1000 sccm (standard cubic centimeter per minute)
 
+![ch41](https://user-images.githubusercontent.com/38221793/60841328-d8db5380-a1d1-11e9-8550-0de2e724beb0.JPG)
+
 Nitrogen and oxygen gases were always flowing through the glass tube in order to create a mixture similar to air, but without any impurities. Methane was turned on and off periodically in different concentrations to test the sensitivity of the sensor. After the sensor was placed into the oven it took about 10 minutes until a constant temperature of 400°C was reached. With that completed, the measurement could start by using a software which automatically saves and plots the measured values. When methane gas was turned on, the voltage decreased. The voltage returned to its previous state when methane gas was turned off.
+
 
 
